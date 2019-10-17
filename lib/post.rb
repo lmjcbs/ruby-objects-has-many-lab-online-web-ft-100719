@@ -16,10 +16,6 @@ class Post
 
   def author_name
     self.author ? self.author.name : nil
-      nil
-    else
-
-    end
   end
 
 
