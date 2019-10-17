@@ -11,6 +11,7 @@ class Post
 
   def all
     @@all
+  end
 
 
 end
