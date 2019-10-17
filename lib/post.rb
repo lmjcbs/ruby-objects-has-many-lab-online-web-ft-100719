@@ -10,6 +10,7 @@ class Post
   end
 
   def all
+    @@all
 
 
 end
